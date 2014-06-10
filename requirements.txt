@@ -1,0 +1,12 @@
+argparse==1.2.1
+cffi==0.8.2
+cryptography==0.4
+googleapiclient==1.2
+httplib2==0.9
+oauth2client==1.2
+pyOpenSSL==0.14
+pycparser==2.10
+simplejson==3.5.2
+six==1.7.2
+uritemplate==0.6
+wsgiref==0.1.2

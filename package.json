@@ -1,0 +1,25 @@
+{
+  "name": "google-shortener-api",
+  "version": "0.0.0",
+  "description": "A simple test working with google api",
+  "main": "google-urlshortener-api.js",
+  "dependencies": {
+    "googleapis": "~0.7.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gustavohenrique/google-api-tests.git"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "shortener"
+  ],
+  "author": "Gustavo Henrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gustavohenrique/google-api-tests/issues"
+  },
+  "homepage": "https://github.com/gustavohenrique/google-api-tests"
+}
